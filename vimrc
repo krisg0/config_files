@@ -170,6 +170,3 @@ autocmd InsertLeave * :set relativenumber
 
 "let vimdiff ignore white space
 set diffopt+=iwhite
-
-"test web modify"
-
