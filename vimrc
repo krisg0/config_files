@@ -170,3 +170,7 @@ autocmd InsertLeave * :set relativenumber
 
 "let vimdiff ignore white space
 set diffopt+=iwhite
+
+colorscheme zenburn
+let g:zenburn_high_Contrast=1
+set background=dark
